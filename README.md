@@ -1,3 +1,9 @@
+> [!NOTE]
+> **衍生声明**：本仓库是 [MemeCalculate/moyin-creator](https://github.com/MemeCalculate/moyin-creator) 的社区衍生升级版，
+> **鸣谢原作者 [MemeCalculate](https://github.com/MemeCalculate)** 的开源贡献。衍生改动见 [UPGRADES.md](UPGRADES.md)，
+> 完整出处与许可链见 [NOTICE.md](NOTICE.md)。
+> 许可构成不变：**AGPL-3.0**（衍生品须同样以 AGPL 开源，网络服务也触发源码义务，商用闭源不可行）。
+> 改动本身将以相同许可发布并保留全部原始声明。
 <div align="center">
 <small>✨ 赞助商</small>
 </div>

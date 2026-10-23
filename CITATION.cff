@@ -1,0 +1,23 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite both this derivative and the original moyin-creator by MemeCalculate."
+title: "Moyin Creator (derivative)"
+authors:
+  - alias: "langking1982"
+    website: "https://github.com/langking1982"
+type: software
+repository-code: "https://github.com/langking1982/moyin-creator"
+abstract: >-
+  AI-powered film production tool (derivative of MemeCalculate/moyin-creator) with Seedance 2.0 support, batch script-to-video pipeline, multi-shot and character consistency.
+keywords:
+  - "AI video"
+  - "short drama"
+  - "AI film production"
+  - "TypeScript"
+license: AGPL-3.0
+date-released: "2026-10-23"
+preferred-citation:
+  type: software
+  title: "Moyin Creator (derivative) (original)"
+  authors:
+    - alias: "MemeCalculate"
+  repository-code: "https://github.com/MemeCalculate/moyin-creator"
